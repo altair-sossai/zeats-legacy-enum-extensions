@@ -9,7 +9,7 @@
 Extensions to solve common problems when using enums
 
 [![Build Status](https://dev.azure.com/zeats/Legacy/_apis/build/status/zeats-legacy-enum-extensions?branchName=master)](https://dev.azure.com/zeats/Legacy/_build/latest?definitionId=17&branchName=master)
-[![NuGet](https://img.shields.io/nuget/v/Zeats.Legacy.EnumExtensions.svg)](https://www.nuget.org/packages/EnumExtensions)
+[![NuGet](https://img.shields.io/nuget/v/Zeats.Legacy.EnumExtensions.svg)](https://www.nuget.org/packages/Zeats.Legacy.EnumExtensions)
 
 ## Installation
 
