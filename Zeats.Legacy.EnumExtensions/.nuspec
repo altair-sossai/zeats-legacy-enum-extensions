@@ -6,5 +6,8 @@
     <version>1.0.0.2</version>
     <description>Extensions to solve common problems when using enums</description>
     <authors>altairsossai@gmail.com</authors>
+    <owners>altairsossai</owners>
+    <projectUrl>https://github.com/altair-sossai/zeats-legacy-enum-extensions</projectUrl>
+    <iconUrl>https://zeatsbalancaautomatica.blob.core.windows.net/icons/nuget.png</iconUrl>
   </metadata>
 </package>
