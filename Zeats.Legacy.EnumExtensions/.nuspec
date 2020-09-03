@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Zeats.Legacy.EnumExtensions</id>
+    <version>1.0.0.2</version>
+    <description>Extensions to solve common problems when using enums</description>
+    <authors>altairsossai@gmail.com</authors>
+  </metadata>
+</package>
